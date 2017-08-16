@@ -1,2 +1,2 @@
-# Low
-Using tools like google drive to waste time. 
+# Low Lake
+Store clumsily made candies.
